@@ -1,0 +1,15 @@
+{
+  "name": "melodia-landing",
+  "version": "1.0.0",
+  "description": "Landing page para o app Melodia",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/css/input.css -o ./dist/css/style.css --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
