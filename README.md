@@ -20,7 +20,7 @@
 - [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
 - [📁 Estrutura do Projeto](#-estrutura-do-projeto)
 - [🔧 Como Executar](#-como-executar)
-- [👤 Autor do Projeto](#-autor-do-projeto)
+- [👤 Autores do Projeto](#-autores-do-projeto)
 
 ---
 
